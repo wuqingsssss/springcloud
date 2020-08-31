@@ -1,0 +1,4 @@
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-provider-user/src/main/java/com/itmuch/cloud/study/ProviderUserApplication.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-provider-user/src/main/java/com/itmuch/cloud/study/entity/User.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-provider-user/src/main/java/com/itmuch/cloud/study/repository/UserRepository.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-provider-user/src/main/java/com/itmuch/cloud/study/controller/UserController.java

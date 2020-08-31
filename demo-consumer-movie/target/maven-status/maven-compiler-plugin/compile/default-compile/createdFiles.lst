@@ -1,0 +1,6 @@
+com/itmuch/cloud/config/RibbonConfiguration.class
+com/itmuch/cloud/study/user/feign/UserFeignClient.class
+com/itmuch/cloud/study/user/controller/MovieController.class
+com/itmuch/cloud/config/FeignLogConfiguration.class
+com/itmuch/cloud/study/ConsumerMovieApplication.class
+com/itmuch/cloud/study/user/entity/User.class

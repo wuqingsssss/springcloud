@@ -1,0 +1,3 @@
+FROM java
+ADD /demo-gateway-zuul-0.0.1-SNAPSHOT.jar //
+ENTRYPOINT ["java", "-jar", "/demo-gateway-zuul-0.0.1-SNAPSHOT.jar"]

@@ -1,0 +1,8 @@
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/user/entity/User.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/config/FeignLogConfiguration.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/ConsumerMovieApplication.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/config/TestConfiguration.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/user/controller/MovieController2.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/user/controller/ConfigController.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/study/user/feign/UserFeignClient.java
+/Library/WebServer/ddd-java/springcloudmevnsimpledemo/demo-consumer2-movie/src/main/java/com/itmuch/cloud/config/RibbonConfiguration.java

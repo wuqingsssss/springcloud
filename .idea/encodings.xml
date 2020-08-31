@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-consumer-movie-without-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-consumer2-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-discovery-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-hystrix-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-provider-user" charset="UTF-8" />
+  </component>
+</project>

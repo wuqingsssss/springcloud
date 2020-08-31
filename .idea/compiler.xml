@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-config-server" />
+        <module name="demo-consumer-movie" />
+        <module name="demo-consumer-movie-without-eureka" />
+        <module name="demo-consumer2-movie" />
+        <module name="demo-discovery-eureka" />
+        <module name="demo-file-upload" />
+        <module name="demo-gateway-zuul" />
+        <module name="demo-hystrix-dashboard" />
+        <module name="demo-hystrix-turbine" />
+        <module name="demo-provider-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
